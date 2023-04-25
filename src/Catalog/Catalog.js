@@ -30,7 +30,7 @@ function Catalog() {
                 <div className="catalog__card"><NavLink to={`/procladki_paronit`}><h3 className="catalog__title">Прокладки паронитовые</h3>
                 <div><img className="catalog__card-img" src="images/paronit.jpg" alt="паронит" /></div></NavLink></div>
                
-                <div className="catalog__card"><NavLink to={`/procladki_rezina`}><h3 className="catalog__title">Прокладки резиновы</h3>
+                <div className="catalog__card"><NavLink to={`/procladki_rezina`}><h3 className="catalog__title">Прокладки резиновые</h3>
                 <div><img className="catalog__card-img" src="images/prokladki.jpg" alt="резина" /></div></NavLink></div>
 
                 <div className="catalog__card"><NavLink to={`/procladki_silikon`}><h3 className="catalog__title">Прокладки силиконовые</h3>
